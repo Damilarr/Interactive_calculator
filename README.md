@@ -178,7 +178,7 @@ The calculator includes comprehensive error handling for:
 - Invalid input sequences
 - Memory operation errors
 
-![Error Handling](screenshots/error_states.png)
+![Error Handling](assets/images/error0.png)
 _Error handling and validation examples_
 
 ## Dependencies
